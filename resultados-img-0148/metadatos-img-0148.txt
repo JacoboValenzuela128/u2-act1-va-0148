@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-Serpiente-0148.jpg
+Ruta del archivo: C:\IA_Gpo3H\SP_VisionSrtificial\ML_0148-U2\p1-act1-0148\img-original-0148\img-Serpiente-0148.jpg
+Formato por extension: .JPG
+Tamano en bytes: 359474
+Tamano en KB: 351.05
+Tamano en MB: 0.3428
+
+DIMENSIONES
+-----------
+Ancho: 1200 pixeles
+Alto: 1200 pixeles
+Resolucion: 1200 x 1200
+Total de pixeles: 1,440,000
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 172.76
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 161.19
+Verde (G): 206.16
+Rojo (R): 150.93
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
